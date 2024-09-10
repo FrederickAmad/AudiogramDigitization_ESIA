@@ -1,0 +1,200 @@
+[
+    {
+        "ear": "left",
+        "conduction": "bone",
+        "masking": false,
+        "symbol confidence": 51.6,
+        "frequency": 500,
+        "frequency confidence": 82.66,
+        "threshold": 35,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": false
+    },
+    {
+        "ear": "left",
+        "conduction": "air",
+        "masking": false,
+        "symbol confidence": 54.85,
+        "frequency": 1000,
+        "frequency confidence": 82.66,
+        "threshold": 35,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": false
+    },
+    {
+        "ear": "right",
+        "conduction": "bone",
+        "masking": true,
+        "symbol confidence": 68.18,
+        "frequency": 3000,
+        "frequency confidence": 40.86,
+        "threshold": 25,
+        "threshold confidence": 43.03,
+        "REVIEW NEEDED?": true
+    },
+    {
+        "ear": "left",
+        "conduction": "bone",
+        "masking": false,
+        "symbol confidence": 68.4,
+        "frequency": 1000,
+        "frequency confidence": 82.66,
+        "threshold": 35,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": false
+    },
+    {
+        "ear": "left",
+        "conduction": "bone",
+        "masking": false,
+        "symbol confidence": 71.01,
+        "frequency": 2000,
+        "frequency confidence": 45.26,
+        "threshold": 40,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": true
+    },
+    {
+        "ear": "left",
+        "conduction": "bone",
+        "masking": true,
+        "symbol confidence": 71.92,
+        "frequency": 250,
+        "frequency confidence": 83.85,
+        "threshold": 35,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": false
+    },
+    {
+        "ear": "left",
+        "conduction": "bone",
+        "masking": false,
+        "symbol confidence": 72.11,
+        "frequency": 4000,
+        "frequency confidence": 40.86,
+        "threshold": 20,
+        "threshold confidence": 43.03,
+        "REVIEW NEEDED?": true
+    },
+    {
+        "ear": "left",
+        "conduction": "air",
+        "masking": false,
+        "symbol confidence": 77.81,
+        "frequency": 2000,
+        "frequency confidence": 45.26,
+        "threshold": 40,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": true
+    },
+    {
+        "ear": "right",
+        "conduction": "air",
+        "masking": false,
+        "symbol confidence": 78.38,
+        "frequency": 1000,
+        "frequency confidence": 82.66,
+        "threshold": 40,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": false
+    },
+    {
+        "ear": "right",
+        "conduction": "air",
+        "masking": false,
+        "symbol confidence": 79.76,
+        "frequency": 2000,
+        "frequency confidence": 45.26,
+        "threshold": 35,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": true
+    },
+    {
+        "ear": "left",
+        "conduction": "air",
+        "masking": false,
+        "symbol confidence": 81.75,
+        "frequency": 250,
+        "frequency confidence": 83.85,
+        "threshold": 40,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": false
+    },
+    {
+        "ear": "left",
+        "conduction": "air",
+        "masking": false,
+        "symbol confidence": 83.56,
+        "frequency": 4000,
+        "frequency confidence": 40.86,
+        "threshold": 45,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": true
+    },
+    {
+        "ear": "left",
+        "conduction": "air",
+        "masking": false,
+        "symbol confidence": 84.42,
+        "frequency": 500,
+        "frequency confidence": 82.66,
+        "threshold": 40,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": false
+    },
+    {
+        "ear": "left",
+        "conduction": "air",
+        "masking": false,
+        "symbol confidence": 84.77,
+        "frequency": 8000,
+        "frequency confidence": 54.68,
+        "threshold": 65,
+        "threshold confidence": 80.4,
+        "REVIEW NEEDED?": true
+    },
+    {
+        "ear": "right",
+        "conduction": "air",
+        "masking": false,
+        "symbol confidence": 85.46,
+        "frequency": 500,
+        "frequency confidence": 82.66,
+        "threshold": 50,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": false
+    },
+    {
+        "ear": "right",
+        "conduction": "air",
+        "masking": false,
+        "symbol confidence": 86.38,
+        "frequency": 8000,
+        "frequency confidence": 54.68,
+        "threshold": 50,
+        "threshold confidence": 70.64,
+        "REVIEW NEEDED?": true
+    },
+    {
+        "ear": "right",
+        "conduction": "air",
+        "masking": false,
+        "symbol confidence": 86.49,
+        "frequency": 4000,
+        "frequency confidence": 40.86,
+        "threshold": 55,
+        "threshold confidence": 80.4,
+        "REVIEW NEEDED?": true
+    },
+    {
+        "ear": "right",
+        "conduction": "air",
+        "masking": false,
+        "symbol confidence": 87.08,
+        "frequency": 250,
+        "frequency confidence": 83.85,
+        "threshold": 55,
+        "threshold confidence": 80.4,
+        "REVIEW NEEDED?": false
+    }
+]
