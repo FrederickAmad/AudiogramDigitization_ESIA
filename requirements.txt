@@ -1,0 +1,15 @@
+numpy==1.23
+matplotlib
+pandas
+Pillow
+pytesseract
+PyYAML
+requests
+scipy
+toml
+torch==1.9.0
+torchvision==0.10.0
+tqdm
+typed-ast
+typing-extensions
+opencv-python
