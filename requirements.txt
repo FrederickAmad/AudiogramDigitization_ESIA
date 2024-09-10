@@ -13,3 +13,4 @@ tqdm
 typed-ast
 typing-extensions
 opencv-python
+openpyxl
